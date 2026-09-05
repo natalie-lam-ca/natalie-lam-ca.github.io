@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" role="img" aria-label="Headshot placeholder">
+  <rect width="720" height="900" fill="#d9d1c3"/>
+  <circle cx="360" cy="340" r="120" fill="#b8aea0"/>
+  <ellipse cx="360" cy="720" rx="220" ry="200" fill="#b8aea0"/>
+  <text x="360" y="860" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#5c564c">Replace with headshot</text>
+</svg>
